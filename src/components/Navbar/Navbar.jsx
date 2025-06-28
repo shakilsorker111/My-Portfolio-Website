@@ -109,7 +109,7 @@ const Navbar = () => {
         <Link>
           <img
             className="w-32 ml-4"
-            src="../../../public/Logo.png"
+            src="/Logo.png"
             alt="logo"
           />
         </Link>
