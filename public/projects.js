@@ -1,6 +1,42 @@
 const projects = [
   {
     id: "1",
+    name: "Matrimony",
+    images: [
+      "https://i.ibb.co.com/8n8SrYMm/Screenshot-2025-08-12-113434.png",
+      "https://i.ibb.co.com/k2hyxNnF/Screenshot-2025-08-12-113513.png",
+      "https://i.ibb.co.com/v6mnsRVH/Screenshot-2025-08-12-113637.png",
+    ],
+    description:
+      "A full-featured matrimony platform built with the MERN stack to help individuals find life partners through secure biodata sharing, premium services, and success story management.",
+    tech: [
+      "React",
+      "React Router",
+      "Tailwind CSS",
+      "TanStack Query",
+      "Stripe Js",
+      "Firebase",
+      "JWT",
+      "Node.js",
+      "MongoDB",
+    ],
+    live: "https://matrimony-a0f98.web.app/",
+    frontend: "https://github.com/shakilsorker111/assignment-12-client-for-show",
+    backend: "https://github.com/shakilsorker111/assignment-12-server-for-show",
+    challenges: [
+      "Handling protected routes and JWT token validation",
+      "Implementing MongoDB filtering and user-specific actions",
+      "Firebase authentication integration with secure logout",
+      "Implement Stripe.js for Payment Integration",
+    ],
+    improvements: [
+      "Implement AI Categorize",
+      "Improve mobile responsiveness for forms",
+      "Implement Animation",
+    ],
+  },
+  {
+    id: "2",
     name: "Service",
     images: [
       "https://i.ibb.co/kVY4GQV9/Screenshot-2025-06-28-222400.png",
@@ -33,7 +69,7 @@ const projects = [
     ],
   },
   {
-    id: "2",
+    id: "3",
     name: "EduCamp",
     images: [
       "https://i.ibb.co/0Vn7VnPF/Screenshot-2025-06-29-001946.png",
@@ -57,7 +93,7 @@ const projects = [
     ],
   },
   {
-    id: "3",
+    id: "4",
     name: "Hobby",
     images: [
       "https://i.ibb.co/mCTTytBY/Screenshot-2025-06-28-214346.png",

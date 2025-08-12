@@ -118,7 +118,7 @@ const Navbar = () => {
         <ul className="menu menu-horizontal px-1">{navLinks}</ul>
       </div>
       <div className="navbar-end">
-        <a className="btn btn-primary text-white">
+        <a href="https://drive.google.com/file/d/1jeJwVDRubCnZFlK7-zn9rb7BRmDinJRY/view?usp=sharing" target="_blank" className="btn btn-primary text-white">
           <FaFilePdf /> Download Resume
         </a>
       </div>

@@ -26,19 +26,19 @@ const Contact = () => {
             </p>
             <p>
               <strong>Phone:</strong>{" "}
-              <a href="tel:+8801324547047" className="text-primary underline">
-                +8801324547047
+              <a href="tel:+8801648524713" className="text-primary underline">
+                +8801648524713
               </a>
             </p>
             <p>
               <strong>WhatsApp:</strong>{" "}
               <a
-                href="https://wa.me/8801324547047"
+                href="https://wa.me/8801648524713"
                 target="_blank"
                 rel="noreferrer"
                 className="text-primary underline"
               >
-                +8801324547047
+                +8801648524713
               </a>
             </p>
           </div>

@@ -27,7 +27,7 @@ const Hero = () => {
           {/* Resume + Socials */}
           <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
             {/* Resume Button */}
-            <a download className="btn btn-primary">
+            <a href="https://drive.google.com/file/d/1jeJwVDRubCnZFlK7-zn9rb7BRmDinJRY/view?usp=sharing" target="_blank" download className="btn btn-primary">
               <FaFilePdf /> Download Resume
             </a>
 
@@ -40,13 +40,13 @@ const Hero = () => {
               >
                 <FaGithub />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+              <a href="https://www.linkedin.com/in/sakil111/" target="_blank" rel="noreferrer">
                 <FaLinkedin />
               </a>
-              <a href="https://facebook.com" target="_blank" rel="noreferrer">
+              <a href="https://www.facebook.com/shakilsorker112/" target="_blank" rel="noreferrer">
                 <FaFacebook />
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noreferrer">
+              <a href="https://x.com/shakilsorker111" target="_blank" rel="noreferrer">
                 <FaTwitter />
               </a>
             </div>
